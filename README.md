@@ -24,3 +24,7 @@
 
 <h1>Visão do Projeto</h1>
 <img src="./img-home/tela-inicial1.png">
+<img src="./img-home/tela-inicial2.png">
+<img src="./img-home/tela-inicial3.png">
+<img src="./img-home/tela-inicial4.png">
+<img src="./img-home/tela-inicial5.png">
